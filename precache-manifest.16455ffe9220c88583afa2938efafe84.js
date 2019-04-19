@@ -4,23 +4,23 @@ self.__precacheManifest = [
     "url": "/swift/static/js/runtime~main.ed87db0e.js"
   },
   {
-    "revision": "f9206baa13f1641a46e3",
-    "url": "/swift/static/js/main.a321600c.chunk.js"
+    "revision": "71e81bc29ef8bf88592a",
+    "url": "/swift/static/js/main.59901d8f.chunk.js"
   },
   {
-    "revision": "d0fac970fbe7699d2126",
-    "url": "/swift/static/js/2.75c1b161.chunk.js"
+    "revision": "582093af30db389713ce",
+    "url": "/swift/static/js/2.26de4de6.chunk.js"
   },
   {
-    "revision": "f9206baa13f1641a46e3",
+    "revision": "71e81bc29ef8bf88592a",
     "url": "/swift/static/css/main.8ff21855.chunk.css"
   },
   {
-    "revision": "d0fac970fbe7699d2126",
+    "revision": "582093af30db389713ce",
     "url": "/swift/static/css/2.501cf43f.chunk.css"
   },
   {
-    "revision": "4a568369d24615b9b60bbdae85a79688",
+    "revision": "a3d83d987365b6138ee3a52fee1eef9f",
     "url": "/swift/index.html"
   }
 ];
